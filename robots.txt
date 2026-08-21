@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://peijin-wang.github.io/my-research-website/sitemap.xml
+Sitemap: https://peijin-wang.github.io/sitemap.xml
