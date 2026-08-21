@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Real-world evidence pipeline</title>
+  <desc id="desc">Clinical data sources flow through statistical methods to evidence and decisions.</desc>
+  <rect width="640" height="420" rx="24" fill="#f2f8f6"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="30" y="62" width="172" height="72" rx="15" fill="#d7eee7" stroke="#317a67" stroke-width="3"/>
+    <rect x="30" y="174" width="172" height="72" rx="15" fill="#d7eee7" stroke="#317a67" stroke-width="3"/>
+    <rect x="30" y="286" width="172" height="72" rx="15" fill="#d7eee7" stroke="#317a67" stroke-width="3"/>
+    <text x="116" y="105" font-size="18" fill="#245949">Electronic records</text>
+    <text x="116" y="217" font-size="18" fill="#245949">Registries</text>
+    <text x="116" y="329" font-size="18" fill="#245949">Claims data</text>
+    <path d="M216 98 C270 98 273 176 312 190M216 210 H312M216 322 C270 322 273 244 312 230" fill="none" stroke="#609b8b" stroke-width="5"/>
+    <rect x="304" y="134" width="164" height="152" rx="22" fill="#317a67"/>
+    <text x="386" y="184" font-size="20" font-weight="bold" fill="white">Statistical</text>
+    <text x="386" y="212" font-size="20" font-weight="bold" fill="white">methods</text>
+    <text x="386" y="247" font-size="15" fill="#e7f4f0">design + analysis</text>
+    <path d="M480 210 H526" stroke="#317a67" stroke-width="8"/>
+    <polygon points="516,195 545,210 516,225" fill="#317a67"/>
+    <circle cx="570" cy="210" r="55" fill="#d49b3d"/>
+    <text x="570" y="202" font-size="18" font-weight="bold" fill="white">Evidence</text>
+    <text x="570" y="227" font-size="15" fill="white">for decisions</text>
+  </g>
+</svg>

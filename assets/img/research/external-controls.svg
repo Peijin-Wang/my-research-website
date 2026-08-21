@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">External controls and population alignment</title>
+  <desc id="desc">Balancing aligns an external population with a randomized trial population.</desc>
+  <rect width="640" height="420" rx="24" fill="#f7f5fb"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="150" y="55" font-size="20" font-weight="bold" fill="#4b366e">Before balancing</text>
+    <circle cx="103" cy="130" r="22" fill="#8d74b7"/><circle cx="158" cy="104" r="17" fill="#8d74b7"/>
+    <circle cx="190" cy="151" r="26" fill="#8d74b7"/><circle cx="124" cy="186" r="17" fill="#8d74b7"/>
+    <circle cx="205" cy="215" r="20" fill="#8d74b7"/><circle cx="75" cy="225" r="14" fill="#8d74b7"/>
+    <text x="150" y="280" font-size="16" fill="#6a558c">External controls</text>
+    <circle cx="282" cy="148" r="20" fill="#df8c62"/><circle cx="305" cy="205" r="16" fill="#df8c62"/>
+    <circle cx="265" cy="232" r="13" fill="#df8c62"/>
+    <text x="285" y="280" font-size="16" fill="#a95836">Trial controls</text>
+    <path d="M342 194 H425" stroke="#65788d" stroke-width="7"/>
+    <polygon points="415,180 443,194 415,208" fill="#65788d"/>
+    <text x="389" y="167" font-size="16" fill="#53667a">weights</text>
+    <text x="525" y="55" font-size="20" font-weight="bold" fill="#4b366e">After balancing</text>
+    <circle cx="492" cy="137" r="22" fill="#8d74b7"/><circle cx="548" cy="124" r="17" fill="#8d74b7"/>
+    <circle cx="565" cy="183" r="26" fill="#8d74b7"/><circle cx="500" cy="202" r="17" fill="#8d74b7"/>
+    <circle cx="550" cy="235" r="20" fill="#8d74b7"/><circle cx="470" cy="244" r="14" fill="#8d74b7"/>
+    <circle cx="527" cy="164" r="17" fill="#df8c62"/><circle cx="526" cy="224" r="14" fill="#df8c62"/>
+    <text x="525" y="295" font-size="16" fill="#53667a">Aligned populations</text>
+    <rect x="172" y="332" width="296" height="52" rx="26" fill="#4b366e"/>
+    <text x="320" y="365" font-size="18" fill="white">Clear causal estimand</text>
+  </g>
+</svg>

@@ -4,6 +4,7 @@ _site
 .idea
 .jekyll-cache
 .jekyll-metadata
+.local-tools/
 .ruby-version
 .sass-cache
 .tweet-cache
