@@ -27,6 +27,7 @@ description: Notes on biostatistics, clinical trials, research, and academic lif
 {% assign personal_posts = site.posts | where: "author", "Peijin Wang" %}
 
 {% if personal_posts.size > 0 %}
+
   <div class="post-list">
     {% for post in personal_posts %}
       <article class="mb-5">
