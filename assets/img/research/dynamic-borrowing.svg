@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Bayesian dynamic borrowing</title>
+  <desc id="desc">Multiple external control sources contribute adaptively to a randomized trial.</desc>
+  <rect width="640" height="420" rx="24" fill="#f4f7fb"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="38" y="54" width="180" height="68" rx="14" fill="#dce8f8" stroke="#4776a8" stroke-width="3"/>
+    <rect x="38" y="176" width="180" height="68" rx="14" fill="#dce8f8" stroke="#4776a8" stroke-width="3"/>
+    <rect x="38" y="298" width="180" height="68" rx="14" fill="#dce8f8" stroke="#4776a8" stroke-width="3"/>
+    <text x="128" y="84" font-size="19" fill="#18324b">External source 1</text>
+    <text x="128" y="207" font-size="19" fill="#18324b">External source 2</text>
+    <text x="128" y="329" font-size="19" fill="#18324b">External source 3</text>
+    <text x="128" y="107" font-size="14" fill="#4776a8">historical controls</text>
+    <text x="128" y="230" font-size="14" fill="#4776a8">real-world data</text>
+    <text x="128" y="352" font-size="14" fill="#4776a8">prior study</text>
+    <path d="M230 88 C330 88 340 170 410 190" fill="none" stroke="#6f91b5" stroke-width="6"/>
+    <path d="M230 210 H404" fill="none" stroke="#315f91" stroke-width="10"/>
+    <path d="M230 332 C330 332 340 252 410 232" fill="none" stroke="#9ab0c8" stroke-width="4"/>
+    <polygon points="397,181 424,194 399,208" fill="#315f91"/>
+    <rect x="416" y="137" width="188" height="146" rx="20" fill="#315f91"/>
+    <text x="510" y="187" font-size="21" font-weight="bold" fill="white">Hybrid trial</text>
+    <text x="510" y="220" font-size="16" fill="#e9f1fa">concurrent controls</text>
+    <text x="510" y="246" font-size="16" fill="#e9f1fa">+ adaptive borrowing</text>
+  </g>
+</svg>
